@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+I'm a solutions architect who is currently working on small projects to develop my coding skills.
+Fun Fact: I learn best by hands on practice. Ask me about anything regarding Solutions Arcitecture, Cloud (AWS in particular) and religion.
 
 <!--
 **Arch-Akyaa/Arch-Akyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
